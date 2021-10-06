@@ -1,4 +1,4 @@
-Hi, I'm Antti Hiltunen.
+Hi, I'm Antti.
 
 I'm currently developing a React-based web app for use in education. 
 
